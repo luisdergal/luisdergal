@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [El Sazón de Mamá](https://github.com/luisdergal/El-Sazon-de-Mama.git)
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, BOOTSTRAP and JS soon.**
+- 🌱 I’m currently learning **HTML, CSS, SASS, BOOTSTRAP and JS.**
 
 - 📫 How to reach me **luisandresdergal@gmail.com**
 
@@ -15,7 +15,7 @@
 <a href="https://fb.com/hhaztex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hhaztex" height="30" width="40" /></a>
 <a href="https://instagram.com/soyelpeluca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soyelpeluca" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/peluca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="peluca" height="30" width="40" /></a>
-<a href="https://discord.gg/PmTzhy2dwn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PmTzhy2dwn" height="30" width="40" /></a>
+<a href="https://discord.gg/5955BzYD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PmTzhy2dwn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

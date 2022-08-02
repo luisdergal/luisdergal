@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Andres Dergal Almaraz</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on [El Sazón de Mamá](https://github.com/luisdergal/El-Sazon-de-Mama.git)
+- 🔭 I’m currently working on [El Sazón de Mamá](https://github.com/luisdergal/eCommerce-Luis-Dergal.git)
 
 - 🌱 I’m currently learning **REACT**
 

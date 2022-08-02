@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React ECommerce](https://github.com/luisdergal/eCommerce-Luis-Dergal.git)
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT JS**
 
 - 📫 How to reach me **luisandresdergal@gmail.com**
 

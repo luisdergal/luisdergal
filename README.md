@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **luisandresdergal@gmail.com**
 
-- 📄 Know about my experiences [I'm 24 years old and I have 1 year in software and web development. I have created practic and real projects on this web and software ambit that constantly I'm improving and adapting to the requirements and aesthetics of every day. My passion for technology has led me to study and work in what I like most. At this moment I'm working for an international software company.](I'm 24 years old and I have 1 year in software and web development. I have created practic and real projects on this web and software ambit that constantly I'm improving and adapting to the requirements and aesthetics of every day. My passion for technology has led me to study and work in what I like most. At this moment I'm working for an international software company.)
+-**I'm 24 years old and I have 1 year in software and web development. I have created practic and real projects on this web and software ambit that constantly I'm improving and adapting to the requirements and aesthetics of every day. My passion for technology has led me to study and work in what I like most. At this moment I'm working for an international software company.](I'm 24 years old and I have 1 year in software and web development. I have created practic and real projects on this web and software ambit that constantly I'm improving and adapting to the requirements and aesthetics of every day. My passion for technology has led me to study and work in what I like most. At this moment I'm working for an international software company.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at (See on mobile) [http://andres-dergal.xyz/](http://andres-dergal.xyz/)
+- 👨‍💻 All of my projects are available at [http://andresdergal.com/](http://andresdergal.com/)
 
 - 📫 How to reach me **luisandresdergal@gmail.com**
 
